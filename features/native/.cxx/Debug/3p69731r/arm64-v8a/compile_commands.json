@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/3p69731r/arm64-v8a",
+  "command": "/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/hello-jni.dir/hello-jni.c.o -c /Users/knutvalen/Repositories/android-dynamic-features/features/native/src/main/cpp/hello-jni.c",
+  "file": "/Users/knutvalen/Repositories/android-dynamic-features/features/native/src/main/cpp/hello-jni.c"
+}
+]

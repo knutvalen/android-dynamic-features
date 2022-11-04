@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/armeabi-v7a'
+ninja: no work to do.

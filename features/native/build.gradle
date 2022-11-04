@@ -22,7 +22,6 @@ android {
     compileSdkVersion versions.compileSdk
     defaultConfig {
         minSdkVersion versions.minSdk
-        targetSdkVersion versions.targetSdk
 
         externalNativeBuild {
             cmake {
@@ -36,6 +35,7 @@ android {
             path "src/main/cpp/CMakeLists.txt"
         }
     }
+    namespace 'com.google.android.samples.dynamicfeatures.ondemand.ccode'
 }
 
 dependencies {

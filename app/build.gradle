@@ -45,6 +45,7 @@ android {
                        ':kotlin',
                        ':java',
                        ':native']
+    namespace 'com.google.android.samples.dynamicfeatures'
 
 }
 

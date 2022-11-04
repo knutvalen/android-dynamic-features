@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/knutvalen/Repositories/android-dynamic-features/features/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/knutvalen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/knutvalen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-jni-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/knutvalen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/x86_64",
+        "hello-jni"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "hello-jni",
+      "output": "/Users/knutvalen/Repositories/android-dynamic-features/features/native/build/intermediates/cxx/Debug/a336n724/obj/x86_64/libhello-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,3 @@
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/armeabi-v7a/CMakeFiles/hello-jni.dir

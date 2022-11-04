@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/Debug/a336n724/arm64-v8a'
+[1/1] Linking C shared library /Users/knutvalen/Repositories/android-dynamic-features/features/native/build/intermediates/cxx/Debug/a336n724/obj/arm64-v8a/libhello-jni.so
