@@ -1,0 +1,3 @@
+# ninja log v5
+0	106	1667550987	CMakeFiles/hello-jni.dir/hello-jni.c.o	9f49c2bf53791738
+107	166	1667550987	/Users/knutvalen/Repositories/android-dynamic-features/features/native/build/intermediates/cxx/RelWithDebInfo/2wr4m272/obj/arm64-v8a/libhello-jni.so	d269b73f6a0a38da

@@ -1,0 +1,3 @@
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/RelWithDebInfo/2wr4m272/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/RelWithDebInfo/2wr4m272/x86_64/CMakeFiles/edit_cache.dir
+/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/RelWithDebInfo/2wr4m272/x86_64/CMakeFiles/hello-jni.dir

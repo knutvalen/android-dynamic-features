@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/knutvalen/Repositories/android-dynamic-features/features/native/.cxx/RelWithDebInfo/2wr4m272/armeabi-v7a",
+  "command": "/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/knutvalen/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles/hello-jni.dir/hello-jni.c.o -c /Users/knutvalen/Repositories/android-dynamic-features/features/native/src/main/cpp/hello-jni.c",
+  "file": "/Users/knutvalen/Repositories/android-dynamic-features/features/native/src/main/cpp/hello-jni.c"
+}
+]
